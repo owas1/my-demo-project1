@@ -10,8 +10,11 @@ Tables of Contents
 ---
 
 26.String interpolation
+
 27.Property Binding
+
 28.Property Binding vs String Interpolation
+
 29.Event Binding 31. Passing and Using Data with Event Binding
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.3.
