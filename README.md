@@ -5,7 +5,7 @@ NPM
 
 1. npm install --save bootstrap@3.3.7
 
-Tables of Contents
+Table of Contents
 
 ---
 
@@ -15,9 +15,25 @@ Tables of Contents
 
 28.Property Binding vs String Interpolation
 
-29.Event Binding 
+29.Event Binding
 
 31.Passing and Using Data with Event Binding
+
+33.Two-way Databinding
+
+34.Combining all Forms of Databinding
+
+36.Understanding Directives
+
+37.Using ngIf to Pout Data Conditionally
+
+38.Enhancing ngIf with an Else Condition
+
+39.Styling Elements Dynamically with ngStyle
+
+40.Applying CSS Classes Dynamically with ngClass
+
+41.Outputting Lists with ngFor
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.3.
 
@@ -48,3 +64,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 1.25-07-2021
 
 2.27-07-2021
+
+3.01-08-2021
